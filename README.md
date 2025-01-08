@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @noahhmartin03
 - 👀 I’m interested in esports and data analysis
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning Java, Python, and SQL
 
 
 <!---
